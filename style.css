@@ -44,7 +44,9 @@ h1 {
   left: 25%;
 }
 
-
+.fairy{
+	background-color: #fdb9e9;
+}
 .ghost {
 	background-color: #7b62a3;
 }
